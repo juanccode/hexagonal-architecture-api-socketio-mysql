@@ -12,7 +12,7 @@ Este proyecto es una API construida con Node.js, utilizando la arquitectura hexa
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/javierlecca/nodejs-hexagonal-architecture-and-unit-test.git`
+1. Clona el repositorio: `git clone https://github.com/juanccode/hexagonal-architecture-api-socketio-mysql.git`
 2. Instala las dependencias: `npm i`
 3. Configura la base de datos MySQL, siguiendo los siguientes pasos:
 
@@ -44,4 +44,3 @@ npm run start
 ## Licencia
 
 Este proyecto está autorizado bajo la licencia MIT.
-
